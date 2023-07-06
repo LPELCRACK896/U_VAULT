@@ -1,0 +1,17 @@
+
+# Introducción
+
+## Nueva ponderación
+
+4 laboratorios y 3 proyectos. 
+- **Proyectos** (en parejas)  $\Rightarrow$ 60%
+- **Laboratorios** (en parejas) $\Rightarrow$ 20%
+- **Generación de contenido** (en grupos que consiste en 2 parejas) $\Rightarrow$ 20%
+
+## Tarea
+Elegir herramienta para parser (creo). Hay una sugerencia en canvas. 
+
+## Herramientas sugeridas
+- ANTLR
+Q de todas formas investiguemos dice. 
+
