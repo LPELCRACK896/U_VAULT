@@ -1,0 +1,8 @@
+
+
+## Paralelismo 
+
+## Concurrencia
+
+
+## Memoria compartida
